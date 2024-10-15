@@ -1,0 +1,6 @@
+﻿  Client.cpp
+D:\PycharmPojects\seti_4\Client\Client.cpp(21,41): warning C4244: 'argument': conversion from 'std::streamsize' to 'int', possible loss of data
+D:\PycharmPojects\seti_4\Client\Client.cpp(91,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PycharmPojects\seti_4\Client\Client.cpp(97,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PycharmPojects\seti_4\Client\Client.cpp(104,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> D:\PycharmPojects\seti_4\Client\x64\Debug\Client.exe
